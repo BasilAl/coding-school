@@ -1,7 +1,7 @@
-#Test Automation Playground for Coding School
-<i>Vasilis Petrou</i>
+<h2>Test Automation Playground for Coding School</h2><br>
+<i>Vasilis Petrou</i><br>
 
-###CRUD Application with UI, Soap & Rest WebServices
+<h4>CRUD Application with UI, Soap & Rest WebServices</h4>
 
 <b>Technologies:</b> Java, Spring Boot, MongoDB, Angular 6 with PrimeNG and Material Components.
 
@@ -17,7 +17,7 @@
    
         ./run.sh
              
-- To stop demo-app just click CTRL + C on the console window.
+- To stop demo-app just click CTRL + C on the console window or close the console window.
 
 Web Application URL: http://localhost:7001/
 Swagger URL (REST API Documentation): http://localhost:7001/swagger-ui.html
