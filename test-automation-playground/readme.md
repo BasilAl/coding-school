@@ -13,7 +13,10 @@
 - Open CMD, navigate to "test-automation-playground" folder and run the command:
 
         run.sh
-        
+   or open GIT Bash, navigate to "test-automation-playground" folder and run the command: 
+   
+        ./run.sh
+             
 - To stop demo-app just click CTRL + C on the console window.
 
 Web Application URL: http://localhost:7001/
