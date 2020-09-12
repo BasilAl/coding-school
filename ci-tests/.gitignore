@@ -3,3 +3,4 @@
 test-reports/
 *.log
 *.log*
+target/
